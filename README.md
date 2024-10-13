@@ -2,4 +2,6 @@
 
 I do sysadmin things
 
-I like Linux, BSD, and networking
+I like Linux, BSD, and FOSS software in general.
+
+If you need to contact me, you may do so at ``kris_`` on https://libera.chat/
