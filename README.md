@@ -1,6 +1,6 @@
 ### hey
 
-i do sysadmin things, computer science student
+i do sysadmin things, student
 
 foss is the only option
 
