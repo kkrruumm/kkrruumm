@@ -9,4 +9,4 @@ if you need to contact me directly, you may do so at ``kris_`` on https://libera
 cool things list:
 bash, POSIX shell, golang, void linux, crux linux, kiss linux, lineageos, runit, musl, swaywm, openbsd, freebsd
 
-![trying_to_understand](/trying_to_understand.png)
+![trying_to_understand](https://img.shields.io/badge/trying%20to%20understand-failing-red?style=flat&logo=)
