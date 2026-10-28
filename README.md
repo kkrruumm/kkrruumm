@@ -6,8 +6,10 @@ foss is the only option, AI dorks go away
 
 if you need to contact me directly, you may do so at ``kris_`` on https://oftc.net/ or https://libera.chat/
 
+if you need to contact me securely, you may do so via xmpp at ``kris_@conversations.im``
+
 cool things list:
-bash, POSIX shell, golang, void linux, crux linux, kiss linux, lineageos, runit, musl, swaywm, openbsd, freebsd, basix linux (i hope)
+bash, POSIX shell, golang, void linux, crux linux, kiss linux, lineageos, runit, musl, swaywm, openbsd, netbsd, basix linux (i hope)
 
 dev of https://basixlinux.org/
 
